@@ -1,4 +1,4 @@
-library(shiny)
+# library(shiny) # it is no longer necessary to load the library here
 
 # Define server logic required to generate and plot a random distribution
 shinyServer(function(input, output) {
